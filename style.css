@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "Mayenne";
+    src: url("./assets/Mayenne_Sans-Regular_web.woff2") format("woff2");
+}
+
+body {
+    font-family: "Mayenne";
+    background-color: rgb(172, 201, 161);
+}
+
+
+.title.big{
+    font-size: 10rem;
+}
+
+.container{
+    background:rgb(172, 201, 161);
+
+}
+
+.new-message{
+    text-align: center;
+
+}
+
+.body-text{
+    text-align: left;
+    position: relative;
+}
+
+
+
+.click-me{
+    font-size: 2rem;
+    padding: 1rem;
+    width: 150px;
+    border: 1px solid black;
+    text-align: center;
+    background: white;
+    position: absolute;
+    font-size: 1.5rem;
+}
