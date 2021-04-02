@@ -211,6 +211,8 @@ button.addEventListener("click" , function(){
 
 })
 
+newImage.style.top = "1rem";
+
 button.style.top = "10rem";
 button.style.left = "1rem";
 
